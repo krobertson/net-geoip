@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.date        = "2011-05-02"
   s.version     = '0.07'
 
-  s.authors     = ["Ken Robertson"]
+  s.authors     = ["Sean Chittenden", "Steven Baker", "MaxMind", "Ken Robertson"]
   s.email       = ["ken@invalidlogic.com"]
 
   s.summary     = 'Net::GeoIP'
